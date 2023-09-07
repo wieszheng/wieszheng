@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <div align="center"> <img src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" /></div>
 <br />
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=I am a self-taught and passionate tester from Henan&center=true&font=Roboto&size=27" /></div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
 I am a self-taught and passionate tester from Henan
 
 - 🔭 I’m currently working on ...
