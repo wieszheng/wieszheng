@@ -24,5 +24,5 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wieszheng&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wieszheng&layout=compact&exclude_repo=wieszheng.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></a> |
 | ------------- | ------------- |
 
-| <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=wieszheng&theme=xcode" /> </div>|
-| ------------- | ------------- |
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=wieszheng&theme=xcode" /> </div>
+
