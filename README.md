@@ -18,8 +18,8 @@ I am a self-taught and passionate tester from Henan
 
 https://img.shields.io/badge/python-3.9-orange
 https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=yang-tian-hub" /> </div>
-<div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wieszheng" /> </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/wieszheng/count.svg" /> </div>
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
 <div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&size=27"> </a> </div>
 
