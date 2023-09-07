@@ -1,6 +1,6 @@
 ### Hi there 👋 <div align="center"> <img src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange" /></div>
 <br />
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=别怕过去的自己，如何生活的狼狈不堪；只有现在勇往直前的力量，才足以战胜遥不可及的梦想。路，一直在脚下，好好努力，明日必定越来越好。!&center=true&font=Roboto&size=27" /></div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=别怕过去的自己，如何生活的狼狈不堪；只有现在勇往直前的力量，才足以战胜遥不可及的梦想。路，一直在脚下，好好努力，明日必定越来越好。&font=Roboto&size=27" /></div>
 I am a self-taught and passionate tester from Henan
 
 - 🔭 I’m currently working on ...
