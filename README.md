@@ -12,8 +12,8 @@ I am a self-taught and passionate tester from Henan
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
-
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wieszheng" /> </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wieszheng)](https://git.io/streak-stats)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wieszheng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wieszheng&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
