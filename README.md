@@ -20,12 +20,12 @@ I am a self-taught and passionate tester from Henan
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wieszheng" /> </div>
 <div align="center"> <img src="https://profile-counter.glitch.me/wieszheng/count.svg" /> </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wieszheng&theme=dracula)](https://github.com/wieszheng/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wieszheng&theme=xcode)]
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wieszheng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wieszheng&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Some Statistics About Me
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=wieszheng&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=wieszheng&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wieszheng&layout=compact&exclude_repo=wuranxu.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wieszheng&layout=compact&exclude_repo=wuranxu.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]
