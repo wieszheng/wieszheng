@@ -4,7 +4,7 @@
 <div align="center"> <img src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange" /></div>
 <br />
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=别怕过去的自己，如何生活的狼狈不堪；只有现在勇往直前的力量，才足以战胜遥不可及的梦想。路，一直在脚下，好好努力，明日必定越来越好。&size=27" alt="Typing SVG" /></div>
-<img src="https://readme-typing-svg.demolab.com/?lines=别怕过去的自己，如何生活的狼狈不堪;只有现在勇往直前的力量，才足以战胜遥不可及的梦想。;路，一直在脚下，好好努力，明日必定越来越好。&font=Fira%20Code&center=true&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+
 <div align="center"> <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@wieszheng?theme=rule34"></a></div>
 
 - 🔭 I’m currently working on ...
