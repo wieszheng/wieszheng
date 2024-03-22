@@ -29,3 +29,4 @@
 <br />
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=wieszheng&theme=xcode" /> </div>
 
+![HuiDBK's github activity graph](https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg)
