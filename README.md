@@ -30,4 +30,4 @@
 
 
 
-![wieszheng's github activity graph](https://github.com/wieszheng/wieszheng/blob/output/github-contribution-grid-snake-dark.svg)
+![wieszheng's github activity graph](https://github.com/wieszheng/wieszheng/blob/output/github-contribution-grid-snake.svg)
