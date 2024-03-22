@@ -2,7 +2,16 @@
 <h1 align="center">I'm wieszheng</h1>
 <h3 align="center">I am a self-taught and passionate tester from Henan</h3>
 <div align="center"> <img src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange" /></div>
-
+<p align="center">
+  <a href="https://github.com/wieszheng/wonder" class="link github-link" target="_blank"><img style="max-width: 100px;" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wieszheng/wonder?style=social"></a>
+  <a href="https://gitee.com/wieszheng/brisk" class="link gitee-link" target="_blank"><img style="max-width: 100px;" alt="gitee Repo stars" src="https://gitee.com/wieszheng/brisk/badge/star.svg"></a>
+  <img alt="csharp" src="https://img.shields.io/badge/Python-3.8+-blue">
+  <img alt="csharp" src="https://img.shields.io/badge/FastApi-0.110.0-red">
+  <img alt="csharp" src="https://img.shields.io/badge/SqlAlchemy-2.0.27-green">
+  <img alt="license" src="https://img.shields.io/badge/Pydantic-2.6.3-yellow">
+  <img alt="license" src="https://img.shields.io/badge/License-MIT-purple">
+  <img alt="version" src="https://img.shields.io/badge/Version-1.0.0-brightgreen">
+</p>
 
 <div align="center"> <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@wieszheng?theme=rule34"></a></div>
 
