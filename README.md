@@ -44,7 +44,7 @@
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <!-- 背景图 -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290"/>
 
 <br />
 <br />
