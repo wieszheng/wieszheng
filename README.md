@@ -14,9 +14,6 @@
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
 
-[//]: # (![Python]&#40;https://img.shields.io/badge/-Python-black?logo=python&style=social&#41;&nbsp;&nbsp;)
-
-[//]: # (![Go]&#40;https://img.shields.io/badge/-Go-black?logo=go&style=social&#41;&nbsp;&nbsp;)
 <div align="center">
   <img src="https://img.shields.io/badge/-CSS-ffa940?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML-a0d911?style=flat&logo=html5&logoColor=white">
@@ -40,12 +37,9 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 <!-- 关于我 -->
-<br />
-<br />
-<div align="center"> <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@wieszheng?theme=rule34"></a></div>
 
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
@@ -56,6 +50,9 @@
 - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
 - 📨 My email address is `wieszheng@kunlunxu.cc` Welcome to contact me 👏🏻 ~
 
+<br />
+<br />
+<div align="center"> <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@wieszheng?theme=rule34"></a></div>
 ## Content Me 📱
 
 - email: <a href="mailto:shiweisai@gmail.com">shiweisai@gmail.com</a>
