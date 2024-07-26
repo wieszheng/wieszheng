@@ -8,6 +8,11 @@
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 Test developers from China 👨‍💻</p>
 </p>
 
+<!-- 背景图 -->
+<br />
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+
 <!-- 
   技术栈标签, 小标签来自: https://shields.io/
   1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
@@ -33,11 +38,12 @@
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
 </div>
 
+<br>
 
-<!-- 背景图 -->
-<br />
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<br>
+
+<div align="center"> <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@wieszheng?theme=rule34"></a></div>
+
 
 <!-- 关于我 -->
 
@@ -50,8 +56,6 @@
 - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
 - 📨 My email address is `wieszheng@kunlunxu.cc` Welcome to contact me 👏🏻 ~
 
-
-<div align="center"> <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@wieszheng?theme=rule34"></a></div>
 
 ## Content Me 📱
 
@@ -90,11 +94,7 @@
   <img alt="version" src="https://img.shields.io/badge/Version-1.0.0-brightgreen">
 </div>
 
-<br>
 
-<br>
-
-<div align="center"> <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@wieszheng?theme=rule34"></a></div>
 
 
 <br>
