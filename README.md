@@ -2,6 +2,8 @@
 <h1 align="center">I'm wieszheng</h1>
 <h3 align="center">I am a self-taught and passionate tester from Henan</h3>
 
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+
 <div align="center">
   <a href="https://github.com/wieszheng/wonder" class="link github-link" target="_blank"><img style="max-width: 100px;" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wieszheng/wonder?style=social"></a>
   <a href="https://gitee.com/wieszheng/brisk" class="link gitee-link" target="_blank"><img style="max-width: 100px;" alt="gitee Repo stars" src="https://gitee.com/wieszheng/brisk/badge/star.svg"></a>
