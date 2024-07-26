@@ -50,7 +50,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on [DXY](https://dxy.com/)~
+- 🔭 I’m currently working on ~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4207159010925677)
