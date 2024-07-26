@@ -50,9 +50,9 @@
 - ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
 - 📨 My email address is `wieszheng@kunlunxu.cc` Welcome to contact me 👏🏻 ~
 
-<br />
-<br />
+
 <div align="center"> <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@wieszheng?theme=rule34"></a></div>
+
 ## Content Me 📱
 
 - email: <a href="mailto:shiweisai@gmail.com">shiweisai@gmail.com</a>
@@ -110,17 +110,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Content Me 📱
 
-- email: <a href="mailto:shiweisai@gmail.com">shiweisai@gmail.com</a>
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=wieszheng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wieszheng&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-![wieszheng's github activity graph](https://github.com/wieszheng/wieszheng/blob/output/github-contribution-grid-snake.svg)
 
 
 
