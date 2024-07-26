@@ -62,3 +62,9 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wieszheng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wieszheng&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<!-- 贪吃蛇, 由工作流定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
+  <img width="100%" alt="github-snake" src="./github-contribution-grid-snake.svg" />
+</picture>
