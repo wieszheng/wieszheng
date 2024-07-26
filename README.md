@@ -63,8 +63,5 @@
 | ------------- | ------------- |
 
 <!-- 贪吃蛇, 由工作流定时生成 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
-  <img width="100%" alt="github-snake" src="./github-contribution-grid-snake.svg" />
-</picture>
+![wieszheng's github activity graph](https://raw.githubusercontent.com/wieszheng/wieszheng/output/github-contribution-grid-snake.svg)
+
