@@ -54,8 +54,8 @@
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4207159010925677)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
-- 📨 My email address is `wieszheng@kunlunxu.cc` Welcome to contact me 👏🏻 ~
+- ⛺️ I have a private site: [wieszheng](https://wieszheng.github.io), you're welcome to come! ~
+- 📨 My email address is `wieszheng@gmail.com` Welcome to contact me 👏🏻 ~
 
 <br />
 
